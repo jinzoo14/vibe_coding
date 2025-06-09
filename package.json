@@ -1,0 +1,11 @@
+{
+  "name": "vibe-calculator",
+  "version": "1.0.0",
+  "description": "Calculator web application",
+  "scripts": {
+    "convert-svg": "node scripts/convert-svg.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+} 
