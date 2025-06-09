@@ -34,20 +34,34 @@
 
 ### 4.1 프론트엔드
 - React 18
+  - 공식 문서: https://react.dev/
+  - 한글 문서: https://ko.react.dev/
 - TypeScript
+  - 공식 문서: https://www.typescriptlang.org/docs/
+  - 한글 문서: https://typescript-kr.github.io/
 - Mantine UI v7
-  - Mantine Core
-  - Mantine Hooks
-  - Mantine Form
-  - Mantine Notifications
+  - 공식 문서: https://mantine.dev/
+  - 컴포넌트: https://mantine.dev/core/getting-started/
+  - 훅: https://mantine.dev/hooks/getting-started/
+  - 폼: https://mantine.dev/form/use-form/
+  - 알림: https://mantine.dev/others/notifications/
 - Vite (빌드 도구)
+  - 공식 문서: https://vitejs.dev/guide/
+  - 한글 문서: https://vitejs-kr.github.io/guide/
 
 ### 4.2 개발 도구
 - ESLint
+  - 공식 문서: https://eslint.org/docs/latest/
+  - React 규칙: https://github.com/jsx-eslint/eslint-plugin-react
 - Prettier
+  - 공식 문서: https://prettier.io/docs/en/
 - Jest
+  - 공식 문서: https://jestjs.io/docs/getting-started
 - React Testing Library
+  - 공식 문서: https://testing-library.com/docs/react-testing-library/intro/
 - GitHub Actions (CI/CD)
+  - 공식 문서: https://docs.github.com/en/actions
+  - 워크플로우 예제: https://docs.github.com/en/actions/examples
 
 ## 5. 사용자 경험 (UX)
 
